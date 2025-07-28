@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-<!--### Hi there 👋 I'm Keerthi
+### Hi there 👋 I'm Keerthi
 - 🧠 Aspiring Data Scientist | Open Source Contributor (GSSoC '25)
 - 🌱 Skills: Python, ML, EDA, Streamlit, LLMs (LangChain), Git
 - 🔭 I’m working on: Multi-Disease Prediction & AI Chatbots
